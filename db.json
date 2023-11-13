@@ -1,0 +1,88 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Neela Nilave",
+      "thumbnail": "https://i.ytimg.com/vi/nYEoxne_20Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": 2,
+      "caption": "Heeriye",
+      "thumbnail": "https://www.lyricalvenue.com/wp-content/uploads/2023/07/Heeriye-Song-Lyrics-2023-In-Hindi-and-English-Jasleen-Royal-Dq-1024x576.jpg",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo"
+    },
+    {
+      "id": "3",
+      "caption": "Chaleya",
+      "thumbnail": "https://www.lyricsrk.com/wp-content/uploads/2023/08/31-1.jpg",
+      "url": "https://www.youtube.com/embed/6cFo3PEr4zY"
+    },
+    {
+      "id": "4",
+      "caption": "Kesariya",
+      "thumbnail": "https://www.theindianwire.com/wp-content/uploads/2022/07/Kesariya-1536x864.jpg",
+      "url": "https://www.youtube.com/embed/BddP6PYo2gs"
+    },
+    {
+      "id": "6",
+      "caption": "Best of Arijit Singh 2023",
+      "thumbnail": "https://i.ytimg.com/vi/QmaAKExJKQA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/Qdv2YG9nOsY"
+    },
+    {
+      "id": "5",
+      "caption": "Vaaste",
+      "thumbnail": "https://www.raoandsapru.in/wp-content/uploads/2020/04/Vaaste-poster-1.jpg",
+      "url": "https://www.youtube.com/embed/FkGP700_Ffw"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "malayalam song",
+      "all video": []
+    },
+    {
+      "id": 2,
+      "categoryName": "tamil",
+      "all video": []
+    },
+    {
+      "id": "3",
+      "categoryName": "hindi",
+      "allvideo": []
+    },
+    {
+      "id": "4",
+      "categoryName": "hindi",
+      "allvideo": []
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardName": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "11-02-2023"
+    },
+    {
+      "id": "382c671d-5d40-41b0-b05d-452986937acf",
+      "cardName": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-11-12T14:48:06.932Z"
+    },
+    {
+      "id": "8ef8f8ce-f928-4947-9d90-70dc43f29624",
+      "cardName": "Heeriye",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "date": "2023-11-12T14:50:05.519Z"
+    },
+    {
+      "id": "a7d5ff42-cc84-41e6-80e1-792ad1a40ed9",
+      "cardName": "Vaaste",
+      "url": "https://www.youtube.com/embed/FkGP700_Ffw",
+      "date": "2023-11-13T17:18:11.257Z"
+    }
+  ]
+}

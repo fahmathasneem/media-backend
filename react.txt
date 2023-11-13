@@ -1,0 +1,8 @@
+to create package json-- npm init -y
+
+to install json server(package)-- npm i json-server
+
+
+
+    // <iframe width="873" height="491" src="https://www.youtube.com/embed/nYEoxne_20Y" title="Neela Nilave - Video Song | RDX | Kapil Kapilan | Sam CS | Shane Nigam,Antony Varghese,Neeraj Madhav" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
